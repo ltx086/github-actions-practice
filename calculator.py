@@ -3,4 +3,4 @@ def add(a, b):
 
 
 def multiply(a, b):
-    return a + b  # 错误的实现
+    return a * b
